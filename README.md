@@ -14,9 +14,6 @@
 
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api?username=janithRS&hide_border=true&hide_title=true)](https://github.com/janithRS/github-readme-stats)
-
-
 [twitter]: https://twitter.com/JanithRS
 [linkedin]: https://linkedin.com/in/janithrs
 [github]: https://github.com/janithRS
