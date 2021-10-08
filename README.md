@@ -2,7 +2,7 @@
 <h3 align="center">FOSS Enthusiast | Blogger </h3>
 
 - 🏢 Software Engineer at WSO2
-- 🔭 Volunteering as the Chief Design Officer at Sustainable Education Foundation
+- 🔭 Volunteering at Sustainable Education Foundation
 - 📖 Read my articles : [Medium](https://janithrs.medium.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/janithrs/)
 
