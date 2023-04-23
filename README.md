@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://janithrs.medium.com/](https://janithrs.medium.com/)
 
+- 🎙️ Listen to my podcast on [Spotify](https://podcasters.spotify.com/pod/show/kathabus)
+
 - 💬 Ask me about **Frontend technologies**
 
 - 📫 How to reach me **janithravindu@gmail.com**
